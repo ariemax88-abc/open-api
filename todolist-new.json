@@ -161,7 +161,7 @@
                                 "$ref": "#/components/schemas/Todolist"
                             },
                             "examples": {
-                                "$ref": "#/components/examples/BahasapProgram"
+                                "$ref": "#/components/examples/BahasaProgram"
                             }
                         }
                     }
@@ -385,7 +385,7 @@
         }
     },
     "examples": {
-        "BahasapProgram":  {
+        "BahasaProgram":  {
             "success":{
                 "description": "Example success get all todolist",
                 "value": [
