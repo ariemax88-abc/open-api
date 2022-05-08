@@ -1,0 +1,19 @@
+openapi: '3.0.2'
+info:
+  title: "Todolist RESTful API"
+  version: "1"
+  description: "OpenAPI for Todolist RESTful API"
+  termsOfService: "https://www.programmerzamannow.com"
+  contact: {
+    name: "Ari Bayu Prasetyo",
+    email: "aribprasetyo88@gmail.com",
+    url: "https://www.programmerzamannow.com"
+  }
+  license: {
+    name: "APACHE 2.0",
+    url:  "https://www.apache.org/licenses/LICENSE-2.0"
+   }
+    
+servers: []
+paths: {}
+  
